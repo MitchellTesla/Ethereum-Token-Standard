@@ -1,2 +1,2 @@
 # Ethereum Token Standards Solidity
-ERC1155 Standard Solidity smart-contract testfile
+My directory of Solidity smart-contracts and Test files 
