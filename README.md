@@ -1,2 +1,3 @@
-# Ethereum Token Standards Solidity
-My directory of Solidity smart-contracts and Test files 
+# Ethereum Token Standard
+My directory of Solidity smart-contracts and Test files written for the Ethereum Token Standard
+
